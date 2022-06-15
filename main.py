@@ -10,9 +10,9 @@ async def main():
     await call_py.start()
     print(
         """
-    ------------------
-   | Userbot Started! |
-    ------------------
+   -------------------------
+   | Dyna Userbot Started! |
+   -------------------------
 """
     )
     await idle()

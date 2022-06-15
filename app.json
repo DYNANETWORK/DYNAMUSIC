@@ -1,13 +1,13 @@
 {
     "name": "TEAM D ",
-    "description": "ᴛᴇʟᴇɢʀᴀᴍ Usᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴜᴍɪᴛ ʏᴀᴅᴀᴠ.",
+    "description": "TELEGRAM USERBOT TO PLAY SONGS AND VIDEOS IN VOICE CHAT ON TELEGRAM DEVELOPED BY SUKHPAL KHERERA.",
     "logo": "https://telegra.ph/file/eb9112211277fea28e9f3.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/DYNANETWORK/TDM",
+    "repository": "https://github.com/DYNANETWORK/DYNAMUSIC",
     "env": {
         "SESSION": {
             "description": "𝙿𝚢𝚛𝚘𝚐𝚛𝚊𝚖 𝚂𝚝𝚛𝚒𝚗𝚐 𝚂𝚎𝚜𝚜𝚒𝚘𝚗",

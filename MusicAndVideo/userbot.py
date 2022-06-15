@@ -104,7 +104,7 @@ async def repo(client, m: Message):
 
 »  ✪ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ✪
  • ғɪʀsᴛ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀɴᴅ ᴛʜᴇɴ ᴛʏᴘᴇ #Dyna-Music-Userbot
-» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [sᴜᴘᴘᴏʀᴛ](https://t.me/cute-friendx) 
+» sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ || [sᴜᴘᴘᴏʀᴛ](https://t.me/cute_friendx) 
  
  </b>
 """

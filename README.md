@@ -1,6 +1,6 @@
- <h2 align="centre">🆂︎ʜᴇᴢʜᴀᴅɪ 🅼︎ᴜsɪᴄ</h2>
+ <h2 align="centre">DYNA MUSIC</h2>
 
-### 𝗦ʜᴇʜᴢʜᴀᴅɪ 𝗠ᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ꜱᴜᴍɪᴛʏᴀᴅᴀᴠ.
+### Dyna Music ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ꜱᴜᴍɪᴛʏᴀᴅᴀᴠ.
 
 <p align="center"><a href="https://t.me/cute_friendx"><img src="https://telegra.ph/file/eb9112211277fea28e9f3.jpg" width="300"></a></p>
 
@@ -16,7 +16,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DYNANETWORK/TDM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DYNANETWORK/DYNAMUSIC)
 
 ### ʜᴇʟᴘ ᴍᴇɴᴜ
 
